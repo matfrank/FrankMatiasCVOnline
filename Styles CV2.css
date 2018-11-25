@@ -1,0 +1,175 @@
+body {
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;   
+}   
+
+img {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 130px;
+    border: solid;
+    border-color: #1E90FF;
+    border-width: 8px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto {
+    background: #a6a6a6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+
+}
+
+.fila {
+    height: auto;
+}
+
+.quien-soy {
+    width: 30%;
+    height: auto;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 33px;
+    background: #a6a6a6;
+}
+
+.dat-per ul{
+    padding: 0px;
+    text-align: center;
+    background: #a6a6a6;
+}
+
+h3 {
+    text-align: center;
+    background: #a6a6a6;
+}
+
+.pers {
+    background: #a6a6a6;
+}
+
+.pers-cont ul{
+    padding: 0px;
+    text-align: center;
+    background:  #a6a6a6;
+}
+
+.hobbies h3 {
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.expect {
+    width: 50%;
+    float: right;
+    background: #1E90FF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px; 
+}
+
+.expect h2 {
+    margin-right: 0%; 
+    padding: 0%;
+    text-align: right;
+}
+
+.expect-cont {
+    width: 50%;
+    float: right;
+    text-align: center; 
+}
+
+.form {
+    width: 50%;
+    float: left;
+    background: #1E90FF;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+} 
+
+.form-cont {
+    text-align: center;
+    width: 50%;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.experience {
+    width: 70%;
+    float: right;
+    background: #1E90FF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}    
+
+.experience h2 {
+    text-align: right;
+}
+
+.experience-cont {
+    width: 70%;
+    float: right;
+    text-align: center;
+}
+
+.leng {
+    width: 70%;
+    float: right;
+    background: #1E90FF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.leng h2 {
+    text-align: right;
+}
+
+.leng-cont {
+    width: 70%;
+    float: right;
+    text-align: center;
+}
+
+.soft {
+    width: 70%;
+    float: right;
+    background: #1E90FF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.soft h2 {
+    text-align: right;
+}
+
+.soft-cont {    
+    width: 70%;
+    float: right;
+    text-align:center;
+}
+
+.portfolio h3 {
+    background: #1E90FF;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%
+}
+
+.navlist li {
+    display: inline;
+    padding: 2px;
+    margin: 2px;
+    
+}
+
+.clearfix {
+    clear:both;
+}
+
