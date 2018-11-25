@@ -1,0 +1,217 @@
+body {
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777;
+  font-size: 13px;
+}
+
+ 
+.menu {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  float: right;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 30px;
+  margin-right: 40px; 
+}
+
+li a{
+  text-decoration: none;
+  color: #777;
+} 
+
+
+
+h1,
+.h1 {
+  font-size: 36px;
+}
+h2,
+.h2 {
+  font-size: 30px;
+}
+h3,
+.h3 {
+  font-size: 24px;
+}
+h4,
+.h4 {
+  font-size: 18px;
+}
+
+img {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 50%;
+  width: 130px;
+  border: 1px solid #ccc;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foto {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: block;
+  text-align: center;
+  padding-top:15px;
+}
+
+.fila {
+  height: auto;
+}
+
+.quien-soy {  
+  height: auto;
+  background: #f5f5f5;
+}
+
+.hobbies img{
+  padding: 2px;
+  width: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 33px;
+}
+
+.dat-per ul {
+  padding: 0px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.pers-cont ul {
+  padding: 0px;
+  text-align: center;
+}
+
+.hobbies h3 {
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.expect {
+  width: 50%;
+  float: right;
+}
+
+.encabezado {
+  text-align: left;
+  margin: 15px 0;
+  padding: 5px 0 10px;
+  border-bottom: 1px solid #eee;
+  font-weight: 500;
+}
+
+.contenido {
+  text-align: center;
+  /* background: #fff; */
+  /* margin-bottom: 20px; */
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.expect-cont {
+  width: 50%;
+  float: right;
+}
+
+.form {
+  width: 50%;
+  float: left;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.form-cont {
+  width: 50%;
+  float: left;
+}
+
+.experience {
+  width: 98%;
+  float: right;
+}
+
+.experience h2 {
+  text-align: right;
+  color: #fff;
+}
+
+.experience-cont {
+  width: 98%;
+  float: right;
+  text-align: center;
+}
+
+.leng {
+  width: 98%;
+  float: right;
+}
+
+.leng-cont {
+  width: 98%;
+  float: right;
+  text-align: center;
+}
+
+.soft {
+  width: 98%;
+  float: right;
+}
+
+.soft-cont {
+  width: 98%;
+  float: right;
+  text-align: center;
+}
+
+.portfolio h3 {
+  width: 100%;
+}
+
+.navlist li {
+  display: inline;
+  padding: 2px;
+  margin: 2px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.height-70 {
+  height: 70px;
+}
+
+.columna-30 {
+  width: 30%;
+}
+
+.columna-70 {
+  width: 70%;
+}
+
+.flotar-izq {
+  float: left;
+}
+
+.line {
+  display: block;
+  height: 3px;
+  background: #3c8dbc;
+  margin-top: 7px;
+  margin-bottom: -10px;
+  width: 50px;
+}
